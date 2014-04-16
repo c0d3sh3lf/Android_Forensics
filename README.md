@@ -10,7 +10,6 @@ Usage
 -----
 
 The usage and output of the program is shown in output.png
-https://github.com/c0d3sh3lf/Android_Forensics/blob/master/output.png
 
 
 Reference
